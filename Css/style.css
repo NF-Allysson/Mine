@@ -5,14 +5,14 @@
     font-family:'Open Sans', sans-serif;
 }
 .offcanvas-body{
-    background-color:gray;
+    background-color:#607d8b;
 }
 .offcanvas{
-    background-color: gray;
+    background-color:#607d8b;
 }
 
 .dropdown-menu{
-    background: gray;
+    background:#607d8b;
 }
 h5{
     text-decoration: underline;
@@ -25,14 +25,17 @@ p{
 h2 {
     width: 100%; 
     text-align: center; 
-    border-bottom: 5px solid #607d8b; 
+    border-bottom: 5px solid black; 
     line-height: 0.1em;
     margin: 10px 0 20px; 
  } 
- 
- h2 span { 
-     background:#fff; 
-     padding:0 10px; 
+.filho1{
+    background:#657D89;
+    padding: 0 10px;
+}
+.filho2{ 
+     background:#6F7E85; 
+     padding:0 10px;
  }
 .uma{
     text-align: justify;
@@ -40,6 +43,7 @@ h2 {
 }
 #offcanvasNavbarLabel{
     text-decoration: none;
+
 }
 .duas{
     text-align:justify;
@@ -47,5 +51,21 @@ h2 {
 }
 img{
     width: 100%;
-    vertical-align:;
+}
+body{
+    background: linear-gradient(#607d8b, gray);
+    overflow-x: hidden;
+}
+.três{
+    text-align:justify;
+    font-size: 90%; 
+}
+.carousel-control-next{
+    color: black;
+}
+.carousel-control-prev{
+    color: black;
+}
+.filho3{
+    background: #798083;
 }
