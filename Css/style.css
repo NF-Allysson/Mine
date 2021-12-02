@@ -1,20 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 *{
-    margin: 0%;
+    margin:0%;
     padding:0%;
     font-family:'Open Sans', sans-serif;
 }
 .offcanvas-body{
-    background-color:#00D8F5;
+    background-color:gray;
 }
 .offcanvas{
-    background-color: #00D8F5;
+    background-color: gray;
 }
-div ul li nav-link{
-    background-color:#00D8F5;
-}
+
 .dropdown-menu{
-    background: #00D8F5;
+    background: gray;
 }
 h5{
     text-decoration: underline;
@@ -27,7 +25,7 @@ p{
 h2 {
     width: 100%; 
     text-align: center; 
-    border-bottom: 1px solid #000; 
+    border-bottom: 5px solid #607d8b; 
     line-height: 0.1em;
     margin: 10px 0 20px; 
  } 
@@ -39,4 +37,15 @@ h2 {
 .uma{
     text-align: justify;
     font-size: 90%;
+}
+#offcanvasNavbarLabel{
+    text-decoration: none;
+}
+.duas{
+    text-align:justify;
+    font-size: 90%;   
+}
+img{
+    width: 100%;
+    vertical-align:;
 }
