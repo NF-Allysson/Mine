@@ -69,3 +69,37 @@ body{
 .filho3{
     background: #798083;
 }
+footer{
+    margin: auto;
+    padding: 3%;
+    text-align: justify;
+    height: 150px;
+    width: 100%;
+    background: #607d8b;
+}
+.autor{
+    font-size: 90%;
+    text-align:justify;
+}
+.autora{
+    font-size: 90%;
+    text-align:start;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+svg{
+    height: 15%;
+    width: 15%;
+}
+.input-group1{
+    height: 500%;
+    width: 260px;
+}
+.gambiarra{
+    height: 20%;
+    width: 20%;
+    border-radius: 5px;
+    background: gray;
+}
